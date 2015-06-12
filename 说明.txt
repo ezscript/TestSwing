@@ -1,0 +1,7 @@
+程序启动位置：
+	org.ma.MainFrame
+
+jdk 1.6
+
+关联jar
+  lib/*.jar
