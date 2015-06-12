@@ -4,6 +4,6 @@ import org.ma.entity.DBParam;
 
 public interface OptUrl {
 	
-	public void optDBParam(DBParam dbParam,String type);
+	public void optDBParam(DBParam dbParam,  String type);
 	 
 }
