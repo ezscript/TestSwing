@@ -71,7 +71,7 @@ public class MainFrame extends JFrame {
 		});
 		menu.add(menuItem_2);
 		
-		JMenuItem menuItem = new JMenuItem("\u90E8\u6807\u67E5\u627E");
+		JMenuItem menuItem = new JMenuItem("doc\u67E5\u627E");
 		menuItem.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				PublicStandard.getInstance().setVisible(true);

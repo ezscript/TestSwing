@@ -46,7 +46,7 @@ public class PublicStandard extends JFrame {
 		
 	}
 	
-	private String fileStartPath = "E:/≤ø±Í";
+	private String fileStartPath = "C:/";
 	/**
 	 * Launch the application.
 	 */
@@ -67,7 +67,7 @@ public class PublicStandard extends JFrame {
 	 * Create the frame.
 	 */
 	public PublicStandard() {
-		setTitle("\u90E8\u6807\u67E5\u627E");
+		setTitle("doc≤È’“");
 		setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
 		setBounds(100, 100, 649, 434);
 		
